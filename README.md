@@ -1,4 +1,4 @@
-# Build a Movie Recommendation System Using Content Based Filtering 
+# Build a Movie Recommendation System Using Collaborative Filtering 
 
 ### Abstract
 I am going to build a recommendation engine to recommend movies based on a movie that we have watched.
