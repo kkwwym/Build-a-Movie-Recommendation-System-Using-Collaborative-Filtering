@@ -27,4 +27,4 @@ Here are some ideas that can help to improve and to extend the recommendation sy
 * Finding a dataset with metadata like tags for these movies, use it to improve the recommendation
 
 # 
-[**CHECK IT OUT NOW !!!** 👀 ]()
+[**CHECK IT OUT NOW !!!** 👀 ](https://github.com/kkwwym/Build-a-Movie-Recommendation-System-Using-Collaborative-Filtering/blob/main/project.ipynb)
